@@ -21,7 +21,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
     <link href="assets/style.css" rel="stylesheet">
-    <style>body::before{content:"ALIPTIC \A Exercice - TWIG";}.bg-img1{border-left:50px solid #1FC4F4;}</style>
+    <style>.bg-img1{border-left:50px solid #1FC4F4;}</style>
 </head>
 <body>
 	<div class="bg-img1 size1 flex-w flex-c-m p-t-20 p-b-55 p-l-15 p-r-15">
