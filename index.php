@@ -5,7 +5,7 @@
     $loader = new \Twig\Loader\FilesystemLoader('templates');
 	$twig   = new \Twig\Environment($loader);
 
-	$templates = $twig->load('index.tpl');
+	$templates = $twig->load('index.html.twig');
 
     //~ URL appelée nous retournant des données au format JSON
     $data_url = 'http://api.randomuser.me/?results=3';
